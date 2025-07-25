@@ -1,0 +1,4 @@
+project:
+  name: my-awesome-project
+  version: 1.0.0
+  description: This is a sample project configuration file.
