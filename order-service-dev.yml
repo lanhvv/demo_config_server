@@ -1,4 +1,4 @@
 project:
   name: order-service-dev
   version: dev1.0.0
-  config: haha
+  url: haha
