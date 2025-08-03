@@ -1,2 +1,3 @@
 project:
-  url: This is a sample project configuration file.
+  name: dev
+  version: dev1.0.0
